@@ -1,9 +1,9 @@
 # Bakery-Recipe-System-TDD-Project
 
-SUMMARY
+SUMMARY:
 Developed a scalable Recipe System for a local bakery, employing Test-Driven Development (TDD) to ensure robust functionality including ingredient management, recipe creation, batch processing, and cost analysis.
 
-PROJECT DETAILS
+PROJECT DETAILS:
 Project: Recipe System
 Bakery Production Scaling
 During a phase of significant expansion for a local bakery, they needed a system to efficiently manage their production and ingredient requirements as they scaled operations to supply multiple cafes across the city. My partner and I undertook this assessment using a Test-Driven Development (TDD) approach, ensuring each functionality was rigorously tested before implementation.
